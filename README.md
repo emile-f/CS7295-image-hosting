@@ -7,3 +7,7 @@ Thumbnail image hosting for CS 7295 class
 
 ### HW2
 ![HW 2](HW2.png)
+
+
+### HW3
+![HW 3](HW3.png)
